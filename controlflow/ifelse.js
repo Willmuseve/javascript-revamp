@@ -9,3 +9,8 @@ else if(password.length >= 5 && password.length <= 8 ){
 else{
     console.log('WEAK')
 }
+
+
+
+//this tasks utilises if else statement to check if 
+//given password is strong or wear
