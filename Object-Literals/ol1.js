@@ -8,3 +8,10 @@ let user = {
 }
 
 console.log(user.name)
+
+let key = "name";
+
+console.log(user[key])
+
+let pad = "email"
+console.log(user[pad])
