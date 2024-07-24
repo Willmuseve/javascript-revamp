@@ -1,6 +1,6 @@
 function Fullname(first, last){
     let result = first + " " + last
-    return 0
+    return 
 }
 
 console.log(Fullname("Picheal", "Ladha"))
